@@ -89,9 +89,3 @@ npm run preview
 - dev: start Vite dev server
 - build: production build
 - preview: preview the production build
-
-## License
-
-Add your license here.
-
-<div style="page-break-after: always;"></div>
