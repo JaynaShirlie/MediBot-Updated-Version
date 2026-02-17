@@ -1,0 +1,9 @@
+{
+  "name": "my sanity has gone",
+  "description": "A comprehensive healthcare platform with specialized access for patients and attenders, featuring real-time monitoring, AI diagnostics, SOS alerts, and record management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
